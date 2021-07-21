@@ -72,7 +72,7 @@ const Team = () => {
    {/*             <h3>Teachers</h3>*/}
    {/*             <p>English Speaking</p>*/}
    {/*             <h6>Apply@75Recruit.com</h6>*/}
-   {/*             <h6>+86-155-155-12405 <span style={{"fontSize":"8px"}}>Skype/WhatsApp</span></h6>*/}
+   {/*             <h6+86-151-386-93451 <span style={{"fontSize":"8px"}}>Skype/WhatsApp</span></h6>*/}
    {/*             <h6><i className="gg-phone"></i></h6>*/}
    {/*             <div className="team-one__image">*/}
    {/*               /!*<img src={RonQRCode} alt="" />*!/*/}
@@ -103,8 +103,8 @@ const Team = () => {
                 <h3>Teachers</h3>
                 <p>English</p>
                 <h6>Ashley@75Recruit.com</h6>
-                <h6>+86-151-369-93451<span style={{"fontSize":"8px"}}>Skype/WhatsApp</span></h6>
-                <h6><i className="gg-phone"></i>+86-151-369-93451</h6>
+                <h6>+86-151-386-93451<span style={{"fontSize":"8px"}}>Skype/WhatsApp</span></h6>
+                <h6><i className="gg-phone"></i>+86-151-386-93451</h6>
                 <div className="team-one__image">
                   <Image src={MengQRCode} fill="cover" width={904} height={914}></Image>
                 </div>
