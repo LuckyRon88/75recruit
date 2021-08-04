@@ -30,6 +30,7 @@ const Layout = (props) => {
     <div>
       <Head crossOrigin="anonymous">
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="google-site-verification" content="YQuviCmzUcnl9xkDQ74xO1P8GedBFf9szGJO-P1Fjlk" />
         <title>{props.pageTitle}</title>
         <link rel="apple-touch-icon" sizes="180x180" href={AppleTouch} />
         <link rel="icon" type="image/png" sizes="32x32" href={Fevicon32} />
